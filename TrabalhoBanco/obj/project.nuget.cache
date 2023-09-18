@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XYOwlLA6ReppOHjRB2U6l+8LW8Yir7cAY1C7J0erTJo1NEzACHgTd7o+3SB2H3koIxosQAySeKo7c03QwspsUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\TrabalhoBancoAV2\\TrabalhoBanco\\TrabalhoBanco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\nuget.commandline\\6.3.1\\nuget.commandline.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

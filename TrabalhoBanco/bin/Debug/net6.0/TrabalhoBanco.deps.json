@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TrabalhoBanco/1.0.0": {
+        "dependencies": {
+          "Neo4j.Driver": "5.3.0",
+          "NuGet.CommandLine": "6.3.1"
+        },
+        "runtime": {
+          "TrabalhoBanco.dll": {}
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "Neo4j.Driver/5.3.0": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "5.0.0",
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "lib/net6.0/Neo4j.Driver.dll": {
+            "assemblyVersion": "5.3.7.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "NuGet.CommandLine/6.3.1": {},
+      "System.ValueTuple/4.5.0": {}
+    }
+  },
+  "libraries": {
+    "TrabalhoBanco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Bcl.AsyncInterfaces/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W8DPQjkMScOMTtJbPwmPyj9c3zYSFGawDW3jwlBOOsnY+EzZFLgNQ/UMkK35JmkNOVPdCyPr2Tw7Vv9N+KA3ZQ==",
+      "path": "microsoft.bcl.asyncinterfaces/5.0.0",
+      "hashPath": "microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512"
+    },
+    "Neo4j.Driver/5.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tREfCEjtpRFpDXsr2kd8ulcI8N+6k/23KrU0INkQbovU3cP1CjJadu/w1zttyXCuTQAh7Yuwe3mlUN6o4GuGwg==",
+      "path": "neo4j.driver/5.3.0",
+      "hashPath": "neo4j.driver.5.3.0.nupkg.sha512"
+    },
+    "NuGet.CommandLine/6.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GYlR2Uq/cbL9anpMulAceUetsO33qT3VtJgz491s6Msv3+eTdKN7GboRQP9LXbL6tgR9XK3G2NHbpPvOg2p81A==",
+      "path": "nuget.commandline/6.3.1",
+      "hashPath": "nuget.commandline.6.3.1.nupkg.sha512"
+    },
+    "System.ValueTuple/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
+      "path": "system.valuetuple/4.5.0",
+      "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
+    }
+  }
+}
